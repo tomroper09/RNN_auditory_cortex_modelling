@@ -1,5 +1,5 @@
 # auditory_cortex_modelling
 
-Includes my final report (which scored 82%)
-
-and matlab code
+Contents of the repo:
+REPORT.pdf - Final report of our project, scored 82%
+matlab_fig1.m - Sample matlab code with the RNN model, that repreoduces one of the figures in the report
